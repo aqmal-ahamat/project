@@ -2,7 +2,7 @@
     "name": "GrocieS",
     "short_name": "GrocieS",
     "description": "Grocies SuperMarket",
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "",
     "theme_color": "#A0153E",
